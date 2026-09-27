@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الصيدلية المتكامل | Pharmacy & Admin POS",
+  "description": "برنامج صيدلية متكامل للمستخدم والإدارة يشمل نقاط البيع، المخزون، الموردين، المشتريات، الخزينة، الأرباح، الشفتات، والباركود.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
